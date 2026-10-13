@@ -1,0 +1,27 @@
+{
+  "typeCheckingMode": "basic",
+  "pythonVersion": "3.9",
+  "pythonPlatform": "Windows",
+  "pythonPath": ".",
+  "venvPath": ".",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "pythonVersion": "3.9",
+      "pythonPath": "."
+    }
+  ],
+  "include": [
+    "app",
+    "tests"
+  ],
+  "exclude": [
+    "**/node_modules",
+    "**/__pycache__",
+    "**/.*",
+    "venv"
+  ],
+  "extraPaths": [
+    "."
+  ]
+}

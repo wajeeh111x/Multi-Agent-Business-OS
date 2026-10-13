@@ -1,0 +1,13 @@
+{
+    "dataset_id": "4de0754f-2512-447c-a284-6b4d1836be40",
+    "active_version": "original",
+    "versions": [
+        {
+            "version": "original",
+            "type": "original",
+            "filename": "100 Sales Records.csv",
+            "filepath": "uploads/business\\4de0754f-2512-447c-a284-6b4d1836be40_100 Sales Records.csv",
+            "created_at": "2026-09-09T06:32:54.813676"
+        }
+    ]
+}

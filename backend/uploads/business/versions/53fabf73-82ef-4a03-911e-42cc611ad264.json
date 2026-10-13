@@ -1,0 +1,32 @@
+{
+    "dataset_id": "53fabf73-82ef-4a03-911e-42cc611ad264",
+    "active_version": "cleaned_v1",
+    "versions": [
+        {
+            "version": "original",
+            "type": "original",
+            "filename": "100 Sales Records.csv",
+            "filepath": "uploads/business\\53fabf73-82ef-4a03-911e-42cc611ad264_100 Sales Records.csv",
+            "created_at": "2026-08-17T11:59:31.688687"
+        },
+        {
+            "version": "cleaned_v1",
+            "type": "cleaned",
+            "filename": "53fabf73-82ef-4a03-911e-42cc611ad264_cleaned.csv",
+            "filepath": "uploads/business\\53fabf73-82ef-4a03-911e-42cc611ad264_cleaned.csv",
+            "created_at": "2026-08-17T12:00:32.209127",
+            "stats": {
+                "original_rows": 100,
+                "cleaned_rows": 100,
+                "original_columns": 14,
+                "cleaned_columns": 14,
+                "removed_duplicates": 0,
+                "removed_empty_columns": 0,
+                "filled_numeric_values": 0,
+                "filled_text_values": 0,
+                "rows_removed": 0,
+                "columns_removed": 0
+            }
+        }
+    ]
+}

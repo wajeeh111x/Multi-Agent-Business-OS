@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "path": "d:/AI-Business-OS/backend",
+      "name": "AI-Business-OS Backend"
+    }
+  ],
+  "settings": {
+    "python.analysis.extraPaths": [
+      "d:/AI-Business-OS/backend"
+    ],
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.typeCheckingMode": "basic",
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.linting.enabled": true,
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.python",
+      "editor.formatOnSave": true
+    },
+    "terminal.integrated.env.windows": {
+      "PYTHONPATH": "d:/AI-Business-OS/backend"
+    }
+  }
+}

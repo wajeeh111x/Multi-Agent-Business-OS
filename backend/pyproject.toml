@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools-scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-business-os"
+version = "1.0.0"
+description = "AI Business Operating System"
+requires-python = ">=3.9"
+
+[tool.setuptools]
+packages = ["app"]
+
+[tool.pylance]
+pythonVersion = "3.9"
+pythonPath = "."
+
+[tool.pyright]
+pythonVersion = "3.9"
+pythonPath = "."
+typeCheckingMode = "basic"

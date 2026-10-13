@@ -1,0 +1,13 @@
+{
+    "dataset_id": "5942f5a7-29b1-4f48-a63c-64ea422de7bd",
+    "active_version": "original",
+    "versions": [
+        {
+            "version": "original",
+            "type": "original",
+            "filename": "AI_Business_OS_sales_dataset.csv",
+            "filepath": "uploads/business\\5942f5a7-29b1-4f48-a63c-64ea422de7bd_AI_Business_OS_sales_dataset.csv",
+            "created_at": "2026-08-27T08:14:27.974670"
+        }
+    ]
+}
